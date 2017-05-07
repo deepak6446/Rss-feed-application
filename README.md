@@ -14,4 +14,6 @@
 ###### 7.Go to browser and enter url:http://localhost:3000/
 ###### 8.enter your rss feed url in textbox and press go.
 
+#### check it online on http://35.154.222.252:3000/
+
 # clone make changes and Enjoy :-) 
