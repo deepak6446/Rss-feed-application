@@ -1,6 +1,5 @@
 var express = require('express');
 var app = express();
-var feedparser = require('ortoo-feedparser');
 const feedparser1 = require('feedparser-promised');
 //const url = "http://iwnsvg.com/feed"; 
 var bodyParser=require('body-parser');
